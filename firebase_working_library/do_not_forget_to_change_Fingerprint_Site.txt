@@ -1,0 +1,6 @@
+https://github.com/Chriton/Firebase-Arduino/tree/master/Arduino%20Project#troubleshooting
+
+https://www.grc.com/fingerprints.htm
+
+
+change it here: C:\Users\xp_ed\Desktop\ESP8266\firebase_working_library\firebase-arduino-master\src -> FirebaseHttpClient.h
