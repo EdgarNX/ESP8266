@@ -1,0 +1,2 @@
+- problems with the firebase library
+- change the eps library version to 2.3 that is working
