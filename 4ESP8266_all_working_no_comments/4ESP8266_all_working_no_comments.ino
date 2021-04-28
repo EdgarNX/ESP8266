@@ -76,7 +76,7 @@ void loop() {
   if (WiFi.status() == WL_CONNECTED) {
     
     //relay for light bulb
-    if(Firebase.getInt("LightBulbStatus")){
+    if(!Firebase.getInt("LightBulbStatus")){
       digitalWrite(lightBulbPin,HIGH);  
       //Serial.println("LightBulbStatus high high high high high high");
     }else{
